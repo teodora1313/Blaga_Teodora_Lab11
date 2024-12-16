@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{F2883D1A-4669-4587-A88F-9FD675E6E96B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blaga_Teodora_Lab11", "Blaga_Teodora_Lab11\Blaga_Teodora_Lab11.csproj", "{D42F080E-9658-4CDA-842E-E261A4C37279}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{F2883D1A-4669-4587-A88F-9FD675E6E96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2883D1A-4669-4587-A88F-9FD675E6E96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2883D1A-4669-4587-A88F-9FD675E6E96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42F080E-9658-4CDA-842E-E261A4C37279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42F080E-9658-4CDA-842E-E261A4C37279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42F080E-9658-4CDA-842E-E261A4C37279}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D42F080E-9658-4CDA-842E-E261A4C37279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42F080E-9658-4CDA-842E-E261A4C37279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42F080E-9658-4CDA-842E-E261A4C37279}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
